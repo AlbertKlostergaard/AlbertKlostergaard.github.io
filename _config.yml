@@ -9,13 +9,13 @@
 title: Albert Klostergaard
 
 # Your name to show in the footer
-author: Some Person
+author: Albert Klostergaard
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Breakdance: "Breakdance"
+  10 Fri:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
